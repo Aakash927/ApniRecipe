@@ -32,4 +32,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 for more info visit (https://create-react-app.dev/docs/getting-started)
 
-### Backend repo link : (https://github.com/RushikeshKhurpe/ApniRecipeBackend)
+### Backend repo link : (https://github.com/Aakash927/ApniRecipeBackend))
